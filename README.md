@@ -1,2 +1,5 @@
-# Programming_II_Chap3-_Spring2022
+COSC 1337 PROGRAMMING II
+SPRING 2022
 Chapter 3 Programming Problems
+Text Book: C++ Early Objects
+
